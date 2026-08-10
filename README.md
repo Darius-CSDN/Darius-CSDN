@@ -1,16 +1,43 @@
 ## Hi there 👋
+👤 资深AGI研发侧招聘专家 | Darius
 
-<!--
-**Darius-CSDN/Darius-CSDN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+7年+ 深耕 AGI 科技 / 数智化研发赛道 | 连续多年百万顾问 / Top Biller
+专注 AGI核心研发侧 精准寻访，提供全链路技术团队搭建服务。
 
-Here are some ideas to get you started:
+🎯 服务细分赛道如下：
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 大模型算法方向
+
+• LLM大语言模型/智能Agent架构/对齐与后训练/RL强化学习算法
+
+• VLM多模态算法/Omni全模态/AIGC生成
+
+• 语音大模型/音频多模态算法（生成/理解方向）
+
+⚙️ AI Infra 方向
+
+• 大模型训练框架/大模型推理优化/算子开发与适配
+
+• GPU集群调度/算力管理/GPU SRE运维
+
+• RDMA高性能通信网络/AI高性能存储
+
+🦾 具身智能 & 世界模型方向
+
+• VLA具身大模型/WAM世界动作模型/通用世界模型
+
+• 机器人感知算法/遥操作算法/动捕算法/运动控制算法
+
+• 强化学习/模仿学习算法
+
+📊 AI Data 方向
+
+• 数据工程/数据算法/高质量预训练数据集构建
+
+• 数据治理/标注体系/数据管线
+
+🤝 服务客户
+BAT 头部科技大厂 · AI 明星独角兽 · 具身智能/世界模型创新企业 · 国企研究院 · 外资科技公司
+💬 欢迎 AI 研发从业者交流职业发展，也欢迎技术团队沟通招聘合作！
+📮：abc370510881@gmail.com
+Wechat:dyj888888_
